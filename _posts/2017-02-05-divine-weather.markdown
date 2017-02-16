@@ -14,10 +14,8 @@ The brief was rather broad only providing a context and a word; my job was to cr
   <br>
 
 
-<img src="{{site.baseurl}}/assets/img/divine/divine1.jpg"/>
+<img src="assets/img/divine/divine1.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine2.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine3.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine4.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine5.jpg"/>
-
-
