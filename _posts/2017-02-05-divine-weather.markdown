@@ -14,7 +14,7 @@ The brief was rather broad only providing a context and a word; my job was to cr
   <br>
 
 
-<img src="{{site.baseurl}}/assets/img/divine/divine1.jpg"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/divine/divine1.JPG?raw=true"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine2.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine3.jpg"/>
 <img src="{{site.baseurl}}/assets/img/divine/divine4.jpg"/>
