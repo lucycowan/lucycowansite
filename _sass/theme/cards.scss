@@ -1,0 +1,33 @@
+.portfolio{
+  width: 80%;
+  margin: auto;
+}
+
+.cardPort {
+  background: white;
+  height: 300px;
+  position: relative;
+  width: 100%;
+}
+
+.cardPort {
+  transition: all 0.3s;
+}
+
+.cardPort:hover {
+  .cardImage{
+    transform: scale(0.95);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+}
+
+.cardImage{
+  transition: all 0.3s;
+  height: 300px;
+  width: 100%;
+}
+
+.offset-0{
+  padding-left: 0;
+  padding-right: 0;
+}

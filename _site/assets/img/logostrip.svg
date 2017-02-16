@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2125.909 393 1066.865 294.589">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b2d4f0;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 150px;
+        font-family: LTCBodoni175W01-Regular;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0);
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="Group_665" data-name="Group 665" transform="translate(1699)">
+    <text id="L" class="cls-1" transform="translate(643 528)"><tspan x="0" y="0">L</tspan></text>
+    <text id="U" class="cls-1" transform="translate(740.133 528)"><tspan x="0" y="0">U</tspan></text>
+    <text id="C" class="cls-1" transform="translate(643.02 646.588)"><tspan x="0" y="0">C</tspan></text>
+    <text id="Y" class="cls-1" transform="translate(744.103 646.588)"><tspan x="0" y="0">Y</tspan></text>
+    <g id="Group_664" data-name="Group 664">
+      <g id="Group_656" data-name="Group 656" transform="translate(854.477 511.511)">
+        <text id="C-2" data-name="C" class="cls-2" transform="translate(0 135)"><tspan x="0" y="0">C</tspan></text>
+      </g>
+      <g id="Group_657" data-name="Group 657" transform="translate(955.561 511.511)">
+        <text id="Y-2" data-name="Y" class="cls-2" transform="translate(0 135)"><tspan x="0" y="0">Y</tspan></text>
+      </g>
+      <text id="U-2" data-name="U" class="cls-2" transform="translate(949.606 528)"><tspan x="0" y="0">U</tspan></text>
+      <text id="L-2" data-name="L" class="cls-2" transform="translate(852.747 528)"><tspan x="0" y="0">L</tspan></text>
+    </g>
+    <g id="Group_658" data-name="Group 658">
+      <text id="L-3" data-name="L" class="cls-1" transform="translate(1061.909 528)"><tspan x="0" y="0">L</tspan></text>
+      <text id="U-3" data-name="U" class="cls-1" transform="translate(1160.774 528)"><tspan x="0" y="0">U</tspan></text>
+      <text id="C-3" data-name="C" class="cls-1" transform="translate(1064.597 646.589)"><tspan x="0" y="0">C</tspan></text>
+      <text id="Y-3" data-name="Y" class="cls-1" transform="translate(1165.68 646.589)"><tspan x="0" y="0">Y</tspan></text>
+      <path id="Path_410" data-name="Path 410" class="cls-3" d="M375,0" transform="translate(853.112 546.363)"/>
+    </g>
+    <g id="Group_662" data-name="Group 662" transform="translate(-635)">
+      <text id="L-4" data-name="L" class="cls-1" transform="translate(1061.909 528)"><tspan x="0" y="0">L</tspan></text>
+      <text id="U-4" data-name="U" class="cls-1" transform="translate(1160.774 528)"><tspan x="0" y="0">U</tspan></text>
+      <text id="C-4" data-name="C" class="cls-1" transform="translate(1064.597 646.589)"><tspan x="0" y="0">C</tspan></text>
+      <text id="Y-4" data-name="Y" class="cls-1" transform="translate(1165.68 646.589)"><tspan x="0" y="0">Y</tspan></text>
+      <path id="Path_414" data-name="Path 414" class="cls-3" d="M375,0" transform="translate(853.112 546.363)"/>
+    </g>
+    <g id="Group_659" data-name="Group 659" transform="translate(216)">
+      <text id="L-5" data-name="L" class="cls-1" transform="translate(1061.909 528)"><tspan x="0" y="0">L</tspan></text>
+      <text id="U-5" data-name="U" class="cls-1" transform="translate(1160.774 528)"><tspan x="0" y="0">U</tspan></text>
+      <text id="C-5" data-name="C" class="cls-1" transform="translate(1064.597 646.589)"><tspan x="0" y="0">C</tspan></text>
+      <text id="Y-5" data-name="Y" class="cls-1" transform="translate(1165.68 646.589)"><tspan x="0" y="0">Y</tspan></text>
+      <path id="Path_411" data-name="Path 411" class="cls-3" d="M375,0" transform="translate(853.112 546.363)"/>
+    </g>
+  </g>
+</svg>

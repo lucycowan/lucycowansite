@@ -1,0 +1,21 @@
+---
+title: Camden Restaurant Menu
+date: '2016-12-29 00:00:00'
+layout: post
+image: camden thumbnail.jpg
+---
+
+<div class="container">
+The brief was to redesign the food menu for Camden Bar in Ashley Cross, in time for their upcoming refurbishment. I wasn’t given many guidelines but used my initiative to come with a design that reflected the venues personality.
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<img src="{{site.baseurl}}/assets/img/camden/camden1.jpg"/>
+<img src="{{site.baseurl}}/assets/img/camden/camden2.jpg"/>
+<img src="{{site.baseurl}}/assets/img/camden/camden3.jpg"/>
+
+
+
