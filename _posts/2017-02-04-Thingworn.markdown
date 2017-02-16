@@ -13,8 +13,8 @@ An Identity I designed for a hypothetical exhibition that showcased the evolutio
   <br>
   <br>
 
-<img src="{{site.baseurl}}/assets/img/thing/thing1.jpg"/>
-<img src="{{site.baseurl}}/assets/img/thing/thing2.jpg"/>
-<img src="{{site.baseurl}}/assets/img/thing/thing3.jpg"/>
-<img src="{{site.baseurl}}/assets/img/thing/thing4.jpg"/>
-<img src="{{site.baseurl}}/assets/img/thing/thing5.jpg"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/thing/thing1.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/thing/thing2.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/thing/thing3.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/thing/thing4.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/thing/thing5.JPG?raw=true"/>

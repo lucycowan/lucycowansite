@@ -13,6 +13,6 @@ This was a live brief set over a week from a local design company CHS, working i
   <br>
   <br>
 
-<img src="{{site.baseurl}}/assets/img/cow/cow1.jpg"/>
-<img src="{{site.baseurl}}/assets/img/cow/cow2.jpg"/>
-<img src="{{site.baseurl}}/assets/img/cow/cow3.jpg"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/cow/cow1.jpg?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/cow/cow2.jpg?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/cow/cow3.jpg?raw=true"/>

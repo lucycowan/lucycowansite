@@ -13,8 +13,6 @@ This is an editorial brief I had to work on using body copy from a Typeradio int
   <br>
   <br>
 
-<img src="{{site.baseurl}}/assets/img/colour/colour1.jpg"/>
-<img src="{{site.baseurl}}/assets/img/colour/colour2.jpg"/>
-<img src="{{site.baseurl}}/assets/img/colour/colour3.jpg"/>
-
-
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/colour/colour1.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/colour/colour2.JPG?raw=true"/>
+<img src="https://github.com/lucycowan/lucycowansite/blob/gh-pages/assets/img/colour/colour3.JPG?raw=true"/>
